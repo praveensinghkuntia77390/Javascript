@@ -45,3 +45,4 @@
 let str="Praveen Singh Kuntia";
 console.log(str);
 console.log(str.replace("p","z"));
+console.log(str)
