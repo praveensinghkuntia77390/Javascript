@@ -44,5 +44,8 @@
 //Replace
 let str="Praveen Singh Kuntia";
 console.log(str);
-console.log(str.replace("p","z"));
-console.log(str)
+console.log(str.replace("P","I"));
+console.log(str.charAt(9));
+
+
+
