@@ -10,3 +10,4 @@ let calcSquare=(square)=>{
     console.log(square*square);
 };
 nums.forEach(calcSquare);
+ 
