@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(33, 197, 197);
+}
+#Box{
+    height:150px;
+    width:150px;
+    border:2px solid black;
+    text-align:center;
+    color:aliceblue;
+    background-color: blueviolet;
+}

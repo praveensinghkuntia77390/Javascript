@@ -1,0 +1,26 @@
+.box{
+    margin-top: 1px;
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    text-align:center;
+    background-color:aquamarine;
+}
+#lens{
+    height:100px;
+    width: 100px;
+    background-color:blueviolet;
+    text-align:center;
+    color:beige;
+ border:2px solid black;
+ margin:5px;
+}
+#Name{
+    margin:5px;
+    height:100px;
+    width: 100px;
+    background-color:blueviolet;
+    text-align:center;
+    color:beige;
+ border:2px solid black;
+}
